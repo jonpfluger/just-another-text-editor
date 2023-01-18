@@ -6,7 +6,7 @@ A single-page PWA text editor that runs in the browser. Features a number of dat
 
 ## Screenshot
 
-![Screenshot of the deployed application](assets/screenshot.png)
+![Screenshot of the deployed application](assets/screenshot.PNG)
 
 ## Deployed Link
 
