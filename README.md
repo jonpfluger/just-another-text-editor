@@ -1,4 +1,4 @@
-# YATE | Yet Another Text Editor
+# JATE | Just Another Text Editor
 
 ## Description
 
@@ -6,7 +6,7 @@ A single-page PWA text editor that runs in the browser. Features a number of dat
 
 ## Technologies Used
 
-webpack, idb
+
 
 ## Screenshot
 
